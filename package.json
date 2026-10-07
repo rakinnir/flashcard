@@ -1,0 +1,21 @@
+{
+  "license": "0BSD",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~55.0.31",
+    "react": "19.2.0",
+    "react-native": "0.83.10",
+    "expo-speech": "~55.0.18",
+    "react-native-safe-area-context": "~5.6.2",
+    "@ptomasroos/react-native-multi-slider": "^2.2.2",
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "prop-types": "^15.8.1"
+  },
+  "private": true
+}

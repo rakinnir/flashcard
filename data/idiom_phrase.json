@@ -1,0 +1,812 @@
+[
+  {
+    "Word": "A bolt from the blue",
+    "Meaning / Synonym": "A completely unexpected event",
+    "Sentence": "The news of his resignation came as a bolt from the blue."
+  },
+  {
+    "Word": "Ace/Close shave",
+    "Meaning / Synonym": "A narrow escape from danger",
+    "Sentence": "He had a close shave when the truck skidded just inches from his car."
+  },
+  {
+    "Word": "A rainy day",
+    "Meaning / Synonym": "A time of difficulty or hardship",
+    "Sentence": "She always saved money to help get through a rainy day."
+  },
+  {
+    "Word": "Above board",
+    "Meaning / Synonym": "Honest and open; without deception",
+    "Sentence": "All transactions in this company are above board."
+  },
+  {
+    "Word": "Above one's station",
+    "Meaning / Synonym": "Beyond one's ability or social rank",
+    "Sentence": "Applying for the CEO role with two years of experience was above his station."
+  },
+  {
+    "Word": "Achilles heel",
+    "Meaning / Synonym": "A weak or vulnerable point",
+    "Sentence": "His overconfidence was his Achilles heel during the negotiations."
+  },
+  {
+    "Word": "Acid test",
+    "Meaning / Synonym": "A decisive or conclusive test",
+    "Sentence": "The acid test of friendship is how someone behaves in hard times."
+  },
+  {
+    "Word": "All and sundry",
+    "Meaning / Synonym": "Every person without exception",
+    "Sentence": "The news was soon known to all and sundry in the town."
+  },
+  {
+    "Word": "All at once",
+    "Meaning / Synonym": "Suddenly; at the same time",
+    "Sentence": "All at once, the lights went out and the room fell dark."
+  },
+  {
+    "Word": "All ears",
+    "Meaning / Synonym": "Fully attentive; ready to listen",
+    "Sentence": "Tell me what happened — I'm all ears."
+  },
+  {
+    "Word": "All in",
+    "Meaning / Synonym": "Completely exhausted",
+    "Sentence": "After the marathon, she was all in and could barely walk."
+  },
+  {
+    "Word": "All moonshine",
+    "Meaning / Synonym": "Foolish or unrealistic ideas",
+    "Sentence": "His plan to become a millionaire overnight was all moonshine."
+  },
+  {
+    "Word": "All of a sudden",
+    "Meaning / Synonym": "Quickly and unexpectedly",
+    "Sentence": "All of a sudden, the storm broke and rain poured down."
+  },
+  {
+    "Word": "Animal spirits",
+    "Meaning / Synonym": "Natural liveliness and cheerfulness",
+    "Sentence": "The children played with great animal spirits all afternoon."
+  },
+  {
+    "Word": "As if",
+    "Meaning / Synonym": "As though; in the same way that",
+    "Sentence": "She looked at him as if she had never seen him before."
+  },
+  {
+    "Word": "As the crow flies",
+    "Meaning / Synonym": "In a straight line; the shortest distance",
+    "Sentence": "The towns are five miles apart as the crow flies."
+  },
+  {
+    "Word": "At heel",
+    "Meaning / Synonym": "Closely behind; nearby",
+    "Sentence": "He kept his dog at heel through the crowded street."
+  },
+  {
+    "Word": "At a loss",
+    "Meaning / Synonym": "Puzzled or uncertain what to do",
+    "Sentence": "She was completely at a loss when asked to explain the error."
+  },
+  {
+    "Word": "At a low ebb",
+    "Meaning / Synonym": "In a poor or declining state",
+    "Sentence": "After the failed launch, the company's morale was at a low ebb."
+  },
+  {
+    "Word": "At odds",
+    "Meaning / Synonym": "In disagreement or conflict",
+    "Sentence": "The two partners have been at odds over business direction for months."
+  },
+  {
+    "Word": "At a stretch",
+    "Meaning / Synonym": "Continuously without a break",
+    "Sentence": "He can work for eight hours at a stretch."
+  },
+  {
+    "Word": "At all hazards/risks",
+    "Meaning / Synonym": "Despite all difficulties or dangers",
+    "Sentence": "She was determined to complete the project at all hazards."
+  },
+  {
+    "Word": "At arm's length",
+    "Meaning / Synonym": "At a distance; avoiding closeness",
+    "Sentence": "He kept his rivals at arm's length during the conference."
+  },
+  {
+    "Word": "At bay",
+    "Meaning / Synonym": "Trapped with no escape; cornered",
+    "Sentence": "The police had the suspect at bay in the alley."
+  },
+  {
+    "Word": "At daggers drawn",
+    "Meaning / Synonym": "In a state of fierce open hostility",
+    "Sentence": "The two families have been at daggers drawn since the property dispute."
+  },
+  {
+    "Word": "At length",
+    "Meaning / Synonym": "In full detail; after a long time",
+    "Sentence": "The professor explained the theory at length."
+  },
+  {
+    "Word": "At one's fingertips",
+    "Meaning / Synonym": "Immediately and easily available",
+    "Sentence": "With the new software, all data is at your fingertips."
+  },
+  {
+    "Word": "At one's wits' end",
+    "Meaning / Synonym": "Completely confused; not knowing what to do",
+    "Sentence": "After three sleepless nights, she was at her wits' end."
+  },
+  {
+    "Word": "At sixes and sevens",
+    "Meaning / Synonym": "In total disorder or confusion",
+    "Sentence": "With the manager away, the office was at sixes and sevens."
+  },
+  {
+    "Word": "At the end of one's tether",
+    "Meaning / Synonym": "Having no patience or resources left to cope",
+    "Sentence": "After months of setbacks, he was at the end of his tether."
+  },
+  {
+    "Word": "At the outset",
+    "Meaning / Synonym": "At the very beginning",
+    "Sentence": "At the outset of the project, everyone was enthusiastic."
+  },
+  {
+    "Word": "Bag and baggage",
+    "Meaning / Synonym": "With all one's belongings; completely",
+    "Sentence": "She packed bag and baggage and left the house."
+  },
+  {
+    "Word": "Be in the red",
+    "Meaning / Synonym": "In debt or operating at a loss",
+    "Sentence": "The company has been in the red for two quarters."
+  },
+  {
+    "Word": "Bear witness/testimony to",
+    "Meaning / Synonym": "To provide evidence of something",
+    "Sentence": "The scars on his hands bear witness to years of hard labor."
+  },
+  {
+    "Word": "Beggar description",
+    "Meaning / Synonym": "Too extreme or remarkable to describe",
+    "Sentence": "The beauty of the landscape beggars description."
+  },
+  {
+    "Word": "Below the belt",
+    "Meaning / Synonym": "Unfair; Cruel",
+    "Sentence": "Bringing up his past mistakes in the meeting was below the belt."
+  },
+  {
+    "Word": "Beyond dispute or question",
+    "Meaning / Synonym": "Completely undisputed; unquestionable",
+    "Sentence": "Her dedication to the cause is beyond question."
+  },
+  {
+    "Word": "Bird's eye view",
+    "Meaning / Synonym": "A broad overview seen from above",
+    "Sentence": "The documentary gave a bird's eye view of the city's development."
+  },
+  {
+    "Word": "Black sheep",
+    "Meaning / Synonym": "A disreputable member of a family or group",
+    "Sentence": "He was always the black sheep of the family."
+  },
+  {
+    "Word": "Blue blood",
+    "Meaning / Synonym": "Aristocratic or noble birth",
+    "Sentence": "The gala was attended exclusively by blue bloods."
+  },
+  {
+    "Word": "Bosom friend",
+    "Meaning / Synonym": "A very close and intimate friend",
+    "Sentence": "They have been bosom friends since their first day at school."
+  },
+  {
+    "Word": "Bring to book",
+    "Meaning / Synonym": "To criticize or call to account",
+    "Sentence": "The auditors brought the corrupt manager to book."
+  },
+  {
+    "Word": "Bring to light",
+    "Meaning / Synonym": "To reveal something hidden",
+    "Sentence": "The investigation brought several violations to light."
+  },
+  {
+    "Word": "Burn one's fingers",
+    "Meaning / Synonym": "To suffer for rash or careless behavior",
+    "Sentence": "He burned his fingers by investing all his savings in one stock."
+  },
+  {
+    "Word": "Burning question",
+    "Meaning / Synonym": "A critically important issue under debate",
+    "Sentence": "Healthcare costs remain a burning question in the election."
+  },
+  {
+    "Word": "By all means",
+    "Meaning / Synonym": "Of course; certainly",
+    "Sentence": "You may by all means use the conference room."
+  },
+  {
+    "Word": "By and by",
+    "Meaning / Synonym": "Eventually; after some time",
+    "Sentence": "By and by, he came to appreciate his father's advice."
+  },
+  {
+    "Word": "By and large",
+    "Meaning / Synonym": "Mostly; generally speaking",
+    "Sentence": "By and large, the event was a great success."
+  },
+  {
+    "Word": "By hook or by crook",
+    "Meaning / Synonym": "By any means available, fair or not",
+    "Sentence": "He was determined to finish the project by hook or by crook."
+  },
+  {
+    "Word": "By means of",
+    "Meaning / Synonym": "Through the use of; using",
+    "Sentence": "The message was conveyed by means of coded signals."
+  },
+  {
+    "Word": "By no means",
+    "Meaning / Synonym": "Certainly not; absolutely not",
+    "Sentence": "This is by no means an easy task."
+  },
+  {
+    "Word": "By turns",
+    "Meaning / Synonym": "One after another; alternately",
+    "Sentence": "The team presented their findings by turns."
+  },
+  {
+    "Word": "Call it a day",
+    "Meaning / Synonym": "To stop work for the rest of the day",
+    "Sentence": "After six hours of coding, he decided to call it a day."
+  },
+  {
+    "Word": "Call to mind",
+    "Meaning / Synonym": "To remember or recollect",
+    "Sentence": "The old photograph called to mind happy memories of childhood."
+  },
+  {
+    "Word": "Capital punishment",
+    "Meaning / Synonym": "Death penalty",
+    "Sentence": "The debate over capital punishment divides lawmakers worldwide."
+  },
+  {
+    "Word": "Cat sleep",
+    "Meaning / Synonym": "A brief, light sleep",
+    "Sentence": "He took a cat sleep during lunch to recharge for the afternoon."
+  },
+  {
+    "Word": "Catch off guard",
+    "Meaning / Synonym": "To encounter someone when unprepared",
+    "Sentence": "The reporter's question caught the politician completely off guard."
+  },
+  {
+    "Word": "Close-fisted man",
+    "Meaning / Synonym": "A very stingy or miserly person",
+    "Sentence": "He is such a close-fisted man he refuses to tip at restaurants."
+  },
+  {
+    "Word": "Cock-and-bull story",
+    "Meaning / Synonym": "A ridiculous and obviously false excuse",
+    "Sentence": "Nobody believed his cock-and-bull story about missing the deadline."
+  },
+  {
+    "Word": "Come to light",
+    "Meaning / Synonym": "To become known or revealed",
+    "Sentence": "New evidence came to light that changed the direction of the trial."
+  },
+  {
+    "Word": "Crocodile tears",
+    "Meaning / Synonym": "A false or insincere show of sorrow",
+    "Sentence": "His apology seemed like crocodile tears — no one was convinced."
+  },
+  {
+    "Word": "Cry over spilled milk",
+    "Meaning / Synonym": "To regret something that cannot be undone",
+    "Sentence": "There's no point crying over spilled milk — let's fix the problem."
+  },
+  {
+    "Word": "Cry wolf",
+    "Meaning / Synonym": "To raise a false alarm unnecessarily",
+    "Sentence": "Because he had cried wolf before, no one believed him this time."
+  },
+  {
+    "Word": "Cut short",
+    "Meaning / Synonym": "To end earlier than planned; to interrupt",
+    "Sentence": "The press conference was cut short due to a security alert."
+  },
+  {
+    "Word": "Day in and day out",
+    "Meaning / Synonym": "Every single day; constantly",
+    "Sentence": "He worked day in and day out to support his family."
+  },
+  {
+    "Word": "Dead of night",
+    "Meaning / Synonym": "The middle of the night; deep darkness",
+    "Sentence": "They made their escape in the dead of night."
+  },
+  {
+    "Word": "Dog days",
+    "Meaning / Synonym": "The hottest days of summer",
+    "Sentence": "During the dog days of August, the city streets were nearly empty."
+  },
+  {
+    "Word": "Eat one's words",
+    "Meaning / Synonym": "To retract something one has said",
+    "Sentence": "He had to eat his words after predicting the team would never win."
+  },
+  {
+    "Word": "End in smoke",
+    "Meaning / Synonym": "To fail completely; to produce no result",
+    "Sentence": "All his ambitious plans ended in smoke when funding dried up."
+  },
+  {
+    "Word": "Fair and square",
+    "Meaning / Synonym": "Honestly and without cheating",
+    "Sentence": "He won the competition fair and square."
+  },
+  {
+    "Word": "Far and away",
+    "Meaning / Synonym": "By a very large margin",
+    "Sentence": "She is far and away the most talented student in the class."
+  },
+  {
+    "Word": "Far cry",
+    "Meaning / Synonym": "Very different from; also, a great distance",
+    "Sentence": "The finished product was a far cry from what was promised."
+  },
+  {
+    "Word": "Fish out of water",
+    "Meaning / Synonym": "A person who feels out of place",
+    "Sentence": "At the formal banquet, the young farmer felt like a fish out of water."
+  },
+  {
+    "Word": "Flesh and blood",
+    "Meaning / Synonym": "A living person; close family members",
+    "Sentence": "After so many years apart, she was his own flesh and blood."
+  },
+  {
+    "Word": "From A to Z",
+    "Meaning / Synonym": "Everything; from beginning to end",
+    "Sentence": "She knows the subject from A to Z."
+  },
+  {
+    "Word": "Gala dinner/night",
+    "Meaning / Synonym": "A special festive public event or celebration",
+    "Sentence": "The charity organized a gala dinner to raise funds for children."
+  },
+  {
+    "Word": "Get rid of",
+    "Meaning / Synonym": "To free oneself from something unwanted",
+    "Sentence": "He finally got rid of all the old furniture in the house."
+  },
+  {
+    "Word": "Gift of the gab",
+    "Meaning / Synonym": "The ability to speak confidently and persuasively",
+    "Sentence": "With his gift of the gab, he could convince almost anyone."
+  },
+  {
+    "Word": "Hall mark",
+    "Meaning / Synonym": "A symbol or feature indicating quality or genuineness",
+    "Sentence": "Attention to detail is the hallmark of a great craftsman."
+  },
+  {
+    "Word": "Hand in glove",
+    "Meaning / Synonym": "Working closely together, often secretly or dishonestly",
+    "Sentence": "The official was found to be hand in glove with the smuggling ring."
+  },
+  {
+    "Word": "Have a finger in the pie",
+    "Meaning / Synonym": "To be involved, often in a meddlesome way",
+    "Sentence": "He always has a finger in the pie when a big contract is awarded."
+  },
+  {
+    "Word": "Head and ears",
+    "Meaning / Synonym": "Completely and deeply involved",
+    "Sentence": "She was head and ears in debt after the business failed."
+  },
+  {
+    "Word": "Head or tail",
+    "Meaning / Synonym": "Unable to understand anything at all",
+    "Sentence": "I couldn't make head or tail of the instruction manual."
+  },
+  {
+    "Word": "High time",
+    "Meaning / Synonym": "The right moment; overdue",
+    "Sentence": "It is high time the government addressed rising unemployment."
+  },
+  {
+    "Word": "Hold true",
+    "Meaning / Synonym": "To remain valid or applicable",
+    "Sentence": "This rule holds true for all employees, regardless of seniority."
+  },
+  {
+    "Word": "In a hole",
+    "Meaning / Synonym": "In a difficult or troublesome situation",
+    "Sentence": "After losing the deal, the company found itself in a real hole."
+  },
+  {
+    "Word": "In a nutshell",
+    "Meaning / Synonym": "Briefly; in summary",
+    "Sentence": "In a nutshell, the plan is to expand into three new markets."
+  },
+  {
+    "Word": "In accordance with",
+    "Meaning / Synonym": "Following or consistent with a rule or agreement",
+    "Sentence": "The report was prepared in accordance with accounting standards."
+  },
+  {
+    "Word": "In cold blood",
+    "Meaning / Synonym": "Done deliberately and without emotion or mercy",
+    "Sentence": "The crime was committed in cold blood, shocking the community."
+  },
+  {
+    "Word": "In deep water",
+    "Meaning / Synonym": "In serious trouble or difficulty",
+    "Sentence": "After the scandal, the politician found himself in deep water."
+  },
+  {
+    "Word": "In full swing",
+    "Meaning / Synonym": "At the peak level of activity",
+    "Sentence": "By midday, the festival was in full swing."
+  },
+  {
+    "Word": "In high spirits",
+    "Meaning / Synonym": "Very happy and enthusiastic",
+    "Sentence": "The team returned in high spirits after their unexpected victory."
+  },
+  {
+    "Word": "In hot water",
+    "Meaning / Synonym": "In serious trouble",
+    "Sentence": "He landed in hot water when his unauthorized expenses were discovered."
+  },
+  {
+    "Word": "In lieu of",
+    "Meaning / Synonym": "Instead of; in place of",
+    "Sentence": "He accepted extra vacation days in lieu of a salary bonus."
+  },
+  {
+    "Word": "In the guise of",
+    "Meaning / Synonym": "Disguised as; pretending to be",
+    "Sentence": "The spy entered the compound in the guise of a maintenance worker."
+  },
+  {
+    "Word": "In the light of",
+    "Meaning / Synonym": "Taking into consideration; based on",
+    "Sentence": "In the light of new evidence, the court reopened the case."
+  },
+  {
+    "Word": "In the long run",
+    "Meaning / Synonym": "Over a long period of time; ultimately",
+    "Sentence": "Investing in good health now will pay off in the long run."
+  },
+  {
+    "Word": "In the wind",
+    "Meaning / Synonym": "Being planned or discussed secretly",
+    "Sentence": "There were rumors in the wind that the company was being sold."
+  },
+  {
+    "Word": "In time",
+    "Meaning / Synonym": "Before a deadline; by the proper time",
+    "Sentence": "She arrived just in time to catch the last train."
+  },
+  {
+    "Word": "In vogue",
+    "Meaning / Synonym": "Currently fashionable or popular",
+    "Sentence": "Minimalist interior design is very much in vogue these days."
+  },
+  {
+    "Word": "Keep an eye on",
+    "Meaning / Synonym": "To watch closely and carefully",
+    "Sentence": "Could you keep an eye on my bag while I go to the counter?"
+  },
+  {
+    "Word": "Kith and kin",
+    "Meaning / Synonym": "Friends and family; close relatives",
+    "Sentence": "He moved back to his hometown to be near his kith and kin."
+  },
+  {
+    "Word": "Leave no stone unturned",
+    "Meaning / Synonym": "To try every possible option; to make every effort",
+    "Sentence": "The detective left no stone unturned in his search for evidence."
+  },
+  {
+    "Word": "Like a bull in a china shop",
+    "Meaning / Synonym": "Behaving clumsily and carelessly",
+    "Sentence": "He walked into the negotiation like a bull in a china shop."
+  },
+  {
+    "Word": "Loaves and fishes",
+    "Meaning / Synonym": "Personal or selfish material gains",
+    "Sentence": "He joined the committee for the loaves and fishes, not the cause."
+  },
+  {
+    "Word": "Maiden speech",
+    "Meaning / Synonym": "The first speech in a formal assembly",
+    "Sentence": "Her maiden speech in parliament drew wide praise."
+  },
+  {
+    "Word": "Man of word",
+    "Meaning / Synonym": "A person who keeps their promises",
+    "Sentence": "He is a man of his word — if he commits, he delivers."
+  },
+  {
+    "Word": "Man of letters",
+    "Meaning / Synonym": "A highly educated and scholarly person",
+    "Sentence": "The professor was a respected man of letters who authored dozens of books."
+  },
+  {
+    "Word": "Moot point",
+    "Meaning / Synonym": "An unsettled or debatable issue",
+    "Sentence": "Whether the policy will help or hurt the economy remains a moot point."
+  },
+  {
+    "Word": "Null and void",
+    "Meaning / Synonym": "Having no legal force; completely invalid",
+    "Sentence": "The contract was declared null and void due to a critical omission."
+  },
+  {
+    "Word": "On the contrary",
+    "Meaning / Synonym": "Expressing the exact opposite",
+    "Sentence": "He didn't fail — on the contrary, he scored the highest in the class."
+  },
+  {
+    "Word": "On the sly",
+    "Meaning / Synonym": "Done secretly without others knowing",
+    "Sentence": "He was passing information to the rival company on the sly."
+  },
+  {
+    "Word": "On the whole",
+    "Meaning / Synonym": "Generally speaking; considering everything",
+    "Sentence": "On the whole, the project went well despite a few setbacks."
+  },
+  {
+    "Word": "Once in a blue moon",
+    "Meaning / Synonym": "Very rarely",
+    "Sentence": "He visits his hometown once in a blue moon."
+  },
+  {
+    "Word": "Once in a while",
+    "Meaning / Synonym": "Occasionally; from time to time",
+    "Sentence": "She allows herself a piece of cake once in a while."
+  },
+  {
+    "Word": "Out and out",
+    "Meaning / Synonym": "Completely; thoroughly; absolute",
+    "Sentence": "He is an out and out liar — nothing he says can be trusted."
+  },
+  {
+    "Word": "Out of date",
+    "Meaning / Synonym": "No longer current or fashionable; outdated",
+    "Sentence": "That operating system is completely out of date."
+  },
+  {
+    "Word": "Out of doors",
+    "Meaning / Synonym": "Outside; outdoors",
+    "Sentence": "The children spent most of their summer out of doors."
+  },
+  {
+    "Word": "Out of the question",
+    "Meaning / Synonym": "Completely impossible; not worth considering",
+    "Sentence": "Taking a vacation right now is out of the question."
+  },
+  {
+    "Word": "Out of the wood",
+    "Meaning / Synonym": "Free from danger or difficulty",
+    "Sentence": "The patient is recovering but is not yet out of the wood."
+  },
+  {
+    "Word": "Pandora's box",
+    "Meaning / Synonym": "Something that causes many unexpected problems once opened",
+    "Sentence": "The new policy opened a Pandora's box of complaints."
+  },
+  {
+    "Word": "Pick one's pocket",
+    "Meaning / Synonym": "To steal from someone's pocket",
+    "Sentence": "He didn't realize his wallet had been picked until he reached the counter."
+  },
+  {
+    "Word": "Pivotal question",
+    "Meaning / Synonym": "The most critical or central question",
+    "Sentence": "The pivotal question is whether growth justifies environmental cost."
+  },
+  {
+    "Word": "Point-blank",
+    "Meaning / Synonym": "Directly and frankly; without softening",
+    "Sentence": "She asked him point-blank whether he had lied on his application."
+  },
+  {
+    "Word": "Pull one's weight",
+    "Meaning / Synonym": "To do one's fair share of work",
+    "Sentence": "Everyone needs to pull their weight to meet the deadline."
+  },
+  {
+    "Word": "Queer fish",
+    "Meaning / Synonym": "A strange or eccentric person",
+    "Sentence": "He was regarded as a queer fish because of his unusual habits."
+  },
+  {
+    "Word": "Ready money",
+    "Meaning / Synonym": "Cash immediately available",
+    "Sentence": "He preferred to deal in ready money rather than credit."
+  },
+  {
+    "Word": "Red-tape",
+    "Meaning / Synonym": "Excessive bureaucratic formality causing delays",
+    "Sentence": "Getting the permit approved required cutting through enormous red tape."
+  },
+  {
+    "Word": "Right and left",
+    "Meaning / Synonym": "Everywhere; in all directions",
+    "Sentence": "The manager was handing out instructions right and left."
+  },
+  {
+    "Word": "Rule of thumb",
+    "Meaning / Synonym": "A practical principle based on experience",
+    "Sentence": "As a rule of thumb, save at least ten percent of your monthly income."
+  },
+  {
+    "Word": "Second thoughts",
+    "Meaning / Synonym": "Doubts or reconsideration about a decision",
+    "Sentence": "She had second thoughts about quitting just before signing the letter."
+  },
+  {
+    "Word": "Show the white feather",
+    "Meaning / Synonym": "To show cowardice; to flee out of fear",
+    "Sentence": "He showed the white feather when it came to standing up to the bully."
+  },
+  {
+    "Word": "Sixth sense",
+    "Meaning / Synonym": "An intuitive ability beyond the five senses",
+    "Sentence": "Her sixth sense told her something was wrong before she entered the room."
+  },
+  {
+    "Word": "Slow coach",
+    "Meaning / Synonym": "A lazy or sluggish person",
+    "Sentence": "Don't be such a slow coach — we need to finish this by morning."
+  },
+  {
+    "Word": "Smell a rat",
+    "Meaning / Synonym": "To suspect something is wrong or dishonest",
+    "Sentence": "When the accounts didn't match, the auditor began to smell a rat."
+  },
+  {
+    "Word": "Square meal",
+    "Meaning / Synonym": "A complete and fully satisfying meal",
+    "Sentence": "After days of travel, he sat down to a proper square meal."
+  },
+  {
+    "Word": "Stone's throw",
+    "Meaning / Synonym": "A very short distance away",
+    "Sentence": "The school is just a stone's throw from our house."
+  },
+  {
+    "Word": "Swan song",
+    "Meaning / Synonym": "A final performance or work before retirement or death",
+    "Sentence": "His last novel was the swan song of a brilliant literary career."
+  },
+  {
+    "Word": "Take one to task",
+    "Meaning / Synonym": "To reprimand or rebuke firmly",
+    "Sentence": "The supervisor took him to task for repeatedly missing deadlines."
+  },
+  {
+    "Word": "Take to heart",
+    "Meaning / Synonym": "To be deeply affected or hurt by something",
+    "Sentence": "She took the criticism to heart and spent weeks improving her work."
+  },
+  {
+    "Word": "Though and through",
+    "Meaning / Synonym": "Completely; in every possible way",
+    "Sentence": "He is a professional though and through — always prepared."
+  },
+  {
+    "Word": "Through thick and thin",
+    "Meaning / Synonym": "Through all difficulties and challenges",
+    "Sentence": "They supported each other through thick and thin for thirty years."
+  },
+  {
+    "Word": "To all appearance",
+    "Meaning / Synonym": "As far as anyone can see; on the surface",
+    "Sentence": "To all appearance, everything was normal, but tensions were rising."
+  },
+  {
+    "Word": "To the contrary",
+    "Meaning / Synonym": "Expressing the opposite position",
+    "Sentence": "Despite evidence to the contrary, he refused to change his opinion."
+  },
+  {
+    "Word": "To the letter",
+    "Meaning / Synonym": "Exactly as instructed; following every detail",
+    "Sentence": "He followed the instructions to the letter and the machine worked."
+  },
+  {
+    "Word": "To the point",
+    "Meaning / Synonym": "Directly relevant; without unnecessary detail",
+    "Sentence": "Her presentation was brief and to the point."
+  },
+  {
+    "Word": "Tom, Dick, and Harry",
+    "Meaning / Synonym": "Any ordinary or random person",
+    "Sentence": "You can't let every Tom, Dick, and Harry into a restricted area."
+  },
+  {
+    "Word": "Tooth and nail",
+    "Meaning / Synonym": "With great determination and force",
+    "Sentence": "She fought tooth and nail to keep her business alive."
+  },
+  {
+    "Word": "Top brass",
+    "Meaning / Synonym": "The most senior officials or officers",
+    "Sentence": "The decision was made by the top brass without consulting junior staff."
+  },
+  {
+    "Word": "Turn a deaf ear to",
+    "Meaning / Synonym": "To deliberately ignore or refuse to listen",
+    "Sentence": "He turned a deaf ear to all the warnings about the risks."
+  },
+  {
+    "Word": "Turn down",
+    "Meaning / Synonym": "To reject or refuse",
+    "Sentence": "She turned down the job offer because the salary was too low."
+  },
+  {
+    "Word": "Under the thumb",
+    "Meaning / Synonym": "Completely controlled by someone else",
+    "Sentence": "He was so under the thumb of his manager he never voiced his opinion."
+  },
+  {
+    "Word": "Up and doing",
+    "Meaning / Synonym": "Active and energetically engaged",
+    "Sentence": "She was up and doing by six every morning."
+  },
+  {
+    "Word": "Voice in the wilderness",
+    "Meaning / Synonym": "A reformer whose views are ignored",
+    "Sentence": "The scientist was a voice in the wilderness when he warned about climate change."
+  },
+  {
+    "Word": "Well off",
+    "Meaning / Synonym": "Financially comfortable; prosperous",
+    "Sentence": "After years of hard work, they were well off and could afford to travel."
+  },
+  {
+    "Word": "Well to do",
+    "Meaning / Synonym": "Wealthy; affluent",
+    "Sentence": "He came from a well-to-do family and never faced financial hardship."
+  },
+  {
+    "Word": "White elephant",
+    "Meaning / Synonym": "A costly possession that is more trouble than it is worth",
+    "Sentence": "The old stadium became a white elephant, costing millions to maintain."
+  },
+  {
+    "Word": "With a good grace",
+    "Meaning / Synonym": "In a willing and gracious manner",
+    "Sentence": "He accepted the defeat with a good grace and congratulated the winner."
+  },
+  {
+    "Word": "With a view to",
+    "Meaning / Synonym": "With the intention or purpose of",
+    "Sentence": "She enrolled in the course with a view to advancing her career."
+  },
+  {
+    "Word": "With flying colours",
+    "Meaning / Synonym": "With great success; victoriously",
+    "Sentence": "He passed all his exams with flying colours and earned a scholarship."
+  },
+  {
+    "Word": "With one voice",
+    "Meaning / Synonym": "In complete agreement; unanimously",
+    "Sentence": "The committee approved the proposal with one voice."
+  },
+  {
+    "Word": "Worth one's salt",
+    "Meaning / Synonym": "Genuinely capable and deserving of one's position",
+    "Sentence": "Any manager worth their salt would know how to handle this."
+  }
+]

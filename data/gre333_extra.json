@@ -1,0 +1,813 @@
+[{
+    "Word": "Abeyance",
+    "Meaning / Synonym": "Temporary suspension",
+    "Antonym": "-",
+    "Sentence": "The decision remains in abeyance until the board meets."
+  },
+  {
+    "Word": "Abscond",
+    "Meaning / Synonym": "Run away, usually includes taking something or somebody along",
+    "Antonym": "-",
+    "Sentence": "The thief chose to abscond (v) with the stolen jewels; The absconder (n) was later captured by the police.",
+    "Other Forms": "Absconder (n)"
+  },
+  {
+    "Word": "Abstemious",
+    "Meaning / Synonym": "Showing restraint, especially in eating or drinking; Ascetic",
+    "Antonym": "Indulgent; Gluttonous",
+    "Sentence": "He maintained an abstemious (adj) lifestyle, avoiding excess; His abstemiousness (n) impressed everyone at the banquet.",
+    "Other Forms": "Abstemiousness (n)"
+  },
+  {
+    "Word": "Apprise",
+    "Meaning / Synonym": "Inform; Notify",
+    "Antonym": "Withhold",
+    "Sentence": "She wanted to apprise (v) her manager of the new developments."
+  },
+  {
+    "Word": "Bolster",
+    "Meaning / Synonym": "Support; Reinforce; Buttress",
+    "Antonym": "Weaken",
+    "Sentence": "The coach provided a supportive bolster (n) for the players during tough times; Her speech helped bolster (v) the team’s confidence before the match."
+  },
+  {
+    "Word": "Bombastic",
+    "Meaning / Synonym": "Pompous; Using inflated language (pretentious)",
+    "Antonym": "Simple",
+    "Sentence": "His bombastic (adj) speech impressed no one; The bombast (n) of his writing annoyed readers.",
+    "Other Forms": "Bombast (n)"
+  },
+  {
+    "Word": "Boorish",
+    "Meaning / Synonym": "Rude; Insensitive",
+    "Antonym": "Polite",
+    "Sentence": "His boorish (adj) behavior at the party embarrassed everyone; The boor (n) refused to apologize for his rudeness.",
+    "Other Forms": "Boor (n)"
+  },
+  {
+    "Word": "Burnish",
+    "Meaning / Synonym": "Polish",
+    "Antonym": "Tarnish; Dull",
+    "Sentence": "She tried to burnish (v) her reputation before the meeting; He used a burnisher (n) to polish the silverware.",
+    "Other Forms": "Burnisher (n)"
+  },
+  {
+    "Word": "Buttress",
+    "Meaning / Synonym": "Support or reinforce(v); Support of usually of rock or brick (n); Bolster",
+    "Antonym": "Weaken; Impair",
+    "Sentence": "The old cathedral had a strong stone buttress (n) supporting its walls; The new evidence will buttress (v)her argument in court."
+  },
+  {
+    "Word": "Coagulate",
+    "Meaning / Synonym": "Thicken; Clot",
+    "Antonym": "Liquefy",
+    "Sentence": "The blood began to coagulate (v) after the wound was cleaned; The coagulation (n) of the mixture was observed in the lab.",
+    "Other Forms": "Coagulation (n)"
+  },
+  {
+    "Word": "Coda",
+    "Meaning / Synonym": "Concluding section",
+    "Antonym": "Introduction section",
+    "Sentence": "The symphony ended with a brilliant coda that left the audience cheering."
+  },
+  {
+    "Word": "Complaisant",
+    "Meaning / Synonym": "Willing to please others; Cooperative",
+    "Antonym": "Stubborn; Intractable; Refractory; Recalcitrant; Obdurate; Intransigent",
+    "Sentence": "He was always complaisant (adj) with his guests; Her complaisance (n) made her very popular in social circles.",
+    "Other Forms": "Complaisance (n)"
+  },
+  {
+    "Word": "Contention",
+    "Meaning / Synonym": "Assertion; Dispute; Rivalry",
+    "Antonym": "Agreement",
+    "Sentence": "The new policy sparked contention (dispute) among employees; His contention (assertion) was that technology improves productivity; She remains in contention (rivalry) for the championship title."
+  },
+  {
+    "Word": "Conundrum",
+    "Meaning / Synonym": "Riddle; Difficult Problem; Dilemma",
+    "Antonym": "Easy problem",
+    "Sentence": "Choosing between career and family posed a real conundrum."
+  },
+  {
+    "Word": "Convoluted",
+    "Meaning / Synonym": "Complex; Intricate",
+    "Antonym": "Simple; Straightforward",
+    "Sentence": "The plot of the novel was convoluted (adj) and hard to follow; He tried to convolute (v) the explanation to confuse the audience; The convolution (n) of the argument made it difficult to understand.",
+    "Other Forms": "Convolution (n); Convolute (v)"
+  },
+  {
+    "Word": "Craven",
+    "Meaning / Synonym": "Cowardly (adj); Coward (n)",
+    "Antonym": "Brave",
+    "Sentence": "The soldier was too craven (adj) to face the enemy; He proved himself a craven (n) by fleeing at the first sign of danger; His cravenness (n) was evident when he refused to stand up for his friend in a difficult situation.",
+    "Other Forms": "Cravenness (n)"
+  },
+  {
+    "Word": "Denigrate",
+    "Meaning / Synonym": "Defame; Belittle; Malign; Slander, Disparage; Vilify",
+    "Antonym": "Praise; Laud",
+    "Sentence": "He tried to denigrate (v) his colleague’s achievements; The denigration (n) of her work was unfair.",
+    "Other Forms": "Denigration (n)"
+  },
+  {
+    "Word": "Deterrent",
+    "Meaning / Synonym": "Something that discourages; Hindrance",
+    "Antonym": "Encouragement",
+    "Sentence": "High fines act as a deterrent (n) against illegal parking; Strict laws deter (v) people from committing crimes.",
+    "Other Forms": "Deter (v)"
+  },
+  {
+    "Word": "Diatribe",
+    "Meaning / Synonym": "Bitter scolding; Invective; Verbal attack; Tirade; Harangue",
+    "Antonym": "Praise; Laud",
+    "Sentence": "He launched a diatribe (n) against the corrupt officials; His speech was highly diatribal (adj) in tone and full of criticism.",
+    "Other Forms": "Diatribal (adj)"
+  },
+  {
+    "Word": "Dichotomy",
+    "Meaning / Synonym": "Branching into two contradictory parts",
+    "Antonym": "Unity",
+    "Sentence": "The novel explores the dichotomy (n) between good and evil; Science and religion are often presented as dichotomous (adj) domains.",
+    "Other Forms": "Dichotomous (adj)"
+  },
+  {
+    "Word": "Dirge",
+    "Meaning / Synonym": "Lament with music",
+    "Antonym": "-",
+    "Sentence": "A mournful dirge played at the funeral."
+  },
+  {
+    "Word": "Disabuse",
+    "Meaning / Synonym": "Correct a false impression; Undeceive",
+    "Antonym": "Mislead; Deceive",
+    "Sentence": "I had to disabuse him of the idea that money alone brings happiness."
+  },
+  {
+    "Word": "Discredit",
+    "Meaning / Synonym": "To harm reputation (v); Loss of reputation (n)",
+    "Antonym": "Credit",
+    "Sentence": "The scandal brought discredit (n) to the company; The investigation discredited (v) the witness’s testimony; His discreditable (adj) behavior shocked everyone.",
+    "Other Forms": "Discreditable (adj)"
+  },
+  {
+    "Word": "Discrepancy",
+    "Meaning / Synonym": "Lack of consistency; Difference",
+    "Antonym": "Consistency; Agreement",
+    "Sentence": "There's a discrepancy between the reports."
+  },
+  {
+    "Word": "Disjointed",
+    "Meaning / Synonym": "Lacking coherence; Separated at the joints",
+    "Antonym": "Connected; Coherent",
+    "Sentence": "His speech was disjointed (adj) and hard to follow; The meeting disjointed (v) the previously coordinated schedule."
+  },
+  {
+    "Word": "Dismiss",
+    "Meaning / Synonym": "Eliminate from consideration; Reject",
+    "Antonym": "Consider; Accept",
+    "Sentence": "The manager decided to dismiss (v) the employee for repeated tardiness; Her dismissal (n) from the company was unexpected; He gave a dismissive (adj) wave of his hand at the suggestion.",
+    "Other Forms": "Dismissal (n); Dismissive (adj)"
+  },
+  {
+    "Word": "Dissemble",
+    "Meaning / Synonym": "Disguise; Pretend; Feign; Camouflage",
+    "Antonym": "Reveal; Disclose",
+    "Sentence": "He tried to dissemble (v) his true feelings during the meeting;The politician’s dissemblance (n) fooled many voters.",
+    "Other Forms": "Dissemblance (n)"
+  },
+  {
+    "Word": "Distill",
+    "Meaning / Synonym": "Purify; Refine; Concentrate",
+    "Antonym": "Contaminate; Pollute; Adulterate",
+    "Sentence": "The machine distills (purify) water for safe drinking; They tried to distill (concentrate) the main ideas from the long report; The distillation (n) of crude oil produces various fuels.",
+    "Other Forms": "Distillation (n)"
+  },
+  {
+    "Word": "Divest",
+    "Meaning / Synonym": "Strip; Deprive",
+    "Antonym": "Endow; Invest",
+    "Sentence": "The company plans to divest (v) its non-core assets; The divestiture (n) of the subsidiary was completed last year; The divestment (n) of fossil fuels is gaining global momentum.",
+    "Other Forms": "Divestiture (n); Divestment (n)"
+  },
+  {
+    "Word": "Dupe",
+    "Meaning / Synonym": "Someone who is easily tricked",
+    "Antonym": "Skeptic; Cynic",
+    "Sentence": "He was an unsuspecting dupe (n) in the scam; They tried to dupe (v) customers with false advertising."
+  },
+  {
+    "Word": "Efficacy",
+    "Meaning / Synonym": "Power to produce a desired effect",
+    "Antonym": "Ineffectiveness",
+    "Sentence": "The efficacy (n) of the treatment was clear; The drug proved efficacious (adj) in curing the patients.",
+    "Other Forms": "Efficacious (adj)"
+  },
+  {
+    "Word": "Effrontery",
+    "Meaning / Synonym": "Shameless boldness; Audacious behavior; Presumption",
+    "Antonym": "Modesty",
+    "Sentence": "He had the effrontery to challenge the judge’s decision."
+  },
+  {
+    "Word": "Elegy",
+    "Meaning / Synonym": "Poem or song expressing lamentation",
+    "Antonym": "Celebration song",
+    "Sentence": "The poet wrote a moving elegy (n); The poem had an elegiac (adj) tone throughout.",
+    "Other Forms": "Elegiac (adj)"
+  },
+  {
+    "Word": "Embellish",
+    "Meaning / Synonym": "Fancify; Adorn; Ornament",
+    "Antonym": "Simplify",
+    "Sentence": "She likes to embellish (v) her stories; The embellishment (n) on the cake was intricate.",
+    "Other Forms": "Embellishment (n)"
+  },
+  {
+    "Word": "Eulogy",
+    "Meaning / Synonym": "Expression of praise (especially for the dead)",
+    "Antonym": "Criticism",
+    "Sentence": "She delivered a heartfelt eulogy (n) at the funeral; He eulogized (v) his mentor during the ceremony.",
+    "Other Forms": "Eulogize (v)"
+  },
+  {
+    "Word": "Exculpate",
+    "Meaning / Synonym": "Clear from blame",
+    "Antonym": "Incriminate",
+    "Sentence": "The evidence served to exculpate (v) the defendant; His exculpation (n) was accepted by the court.",
+    "Other Forms": "Exculpation (n)"
+  },
+  {
+    "Word": "Facilitate",
+    "Meaning / Synonym": "Make easier",
+    "Antonym": "Obstruct; Impede",
+    "Sentence": "The manager tried to facilitate (v) the discussion; The facilitation (n) of the meeting made it run smoothly.",
+    "Other Forms": "Facilitation (n)"
+  },
+  {
+    "Word": "Fallacious",
+    "Meaning / Synonym": "Misleading; Incorrect (logic)",
+    "Antonym": "Logical; Valid",
+    "Sentence": "The argument was fallacious (adj) and misleading; He pointed out the fallacy (n) in their reasoning.",
+    "Other Forms": "Fallacy (n)"
+  },
+  {
+    "Word": "Felicitous",
+    "Meaning / Synonym": "Apt; Well chosen; Well wishing",
+    "Antonym": "Inappropriate",
+    "Sentence": "Her remark was felicitous (adj) and lightened the mood; Their felicity (n) was evident at the celebration.",
+    "Other Forms": "Felicity (n)"
+  },
+  {
+    "Word": "Flag",
+    "Meaning / Synonym": "Mark; Weaken (fade away)",
+    "Antonym": "Strengthen",
+    "Sentence": "She flagged (mark) the errors in the report for revision; His enthusiasm began to flag (weaken) after several setbacks."
+  },
+  {
+    "Word": "Fledgling",
+    "Meaning / Synonym": "Inexperienced",
+    "Antonym": "Experienced; Mature",
+    "Sentence": "The fledgling company is gaining traction."
+  },
+  {
+    "Word": "Foment",
+    "Meaning / Synonym": "Instigate; Stir Up",
+    "Antonym": "Suppress",
+    "Sentence": "The agitators tried to foment (v) unrest; The unrest was fueled by the fomentation (n).",
+    "Other Forms": "Fomentation (n)"
+  },
+  {
+    "Word": "Forestall",
+    "Meaning / Synonym": "Prevent by preemption",
+    "Antonym": "Allow; Permit",
+    "Sentence": "Early treatment can forestall complications."
+  },
+  {
+    "Word": "Gainsay",
+    "Meaning / Synonym": "Deny; Repute (verbally)",
+    "Antonym": "Confirm; Affirm",
+    "Sentence": "No one could gainsay (v) his statement; His gainsaying (adj) attitude frustrated the team.",
+    "Other Forms": "Gainsaying (adj)"
+  },
+  {
+    "Word": "Goad",
+    "Meaning / Synonym": "Urge; Provoke",
+    "Antonym": "Deter; Dissuade",
+    "Sentence": "The coach goaded the players to try harder."
+  },
+  {
+    "Word": "Gouge",
+    "Meaning / Synonym": "Overcharge",
+    "Antonym": "Undercharge",
+    "Sentence": "Tourists were gouged by the taxi drivers."
+  },
+  {
+    "Word": "Harangue",
+    "Meaning / Synonym": "Long, passionate speech (verbal attack); Diatribe; Invective; Tirade",
+    "Antonym": "Praise; Laud",
+    "Sentence": "He launched into a harangue (n) about corruption; He harangued (v) the audience about the issue."
+  },
+  {
+    "Word": "Idolatry",
+    "Meaning / Synonym": "Excessive admiration",
+    "Antonym": "Disregard",
+    "Sentence": "Their idolatry (n) of celebrities was extreme; His idolatrous (adj) behavior shocked his family.",
+    "Other Forms": "Idolatrous (adj)"
+  },
+  {
+    "Word": "Impair",
+    "Meaning / Synonym": "Damage; Weaken (quality / function)",
+    "Antonym": "Improve",
+    "Sentence": "Smoking can impair your health; The impairment (n) caused by the injury was severe.",
+    "Other Forms": "Impairment (n)"
+  },
+  {
+    "Word": "Impassive",
+    "Meaning / Synonym": "Emotionless; Phlegmatic; Stolid",
+    "Antonym": "Expressive",
+    "Sentence": "She remained impassive during the trial; Despite the chaos around her, her impassiveness (n) never wavered.",
+    "Other Forms": "Impassiveness (n)"
+  },
+  {
+    "Word": "Impede",
+    "Meaning / Synonym": "Hinder; Thwart",
+    "Antonym": "Aid; Facilitate",
+    "Sentence": "Construction work is impeding traffic; The delay acted as an impediment (n) to progress.",
+    "Other Forms": "Impediment (n)"
+  },
+  {
+    "Word": "Imperturbable",
+    "Meaning / Synonym": "Extreme calm",
+    "Antonym": "Agitated",
+    "Sentence": "He remained imperturbable under pressure."
+  },
+  {
+    "Word": "Implacable",
+    "Meaning / Synonym": "Cannot be pacified",
+    "Antonym": "Appeasable; Conciliatory",
+    "Sentence": "The villain was implacable (adj) in his pursuit of revenge; His implacability (n) made negotiation impossible.",
+    "Other Forms": "Implacability (n)"
+  },
+  {
+    "Word": "Implode",
+    "Meaning / Synonym": "Burst inward",
+    "Antonym": "Explode; Expand",
+    "Sentence": "The building imploded after the demolition charges were set; The implosion (n) was captured on video.",
+    "Other Forms": "Implosion (n)"
+  },
+  {
+    "Word": "Inadvertently",
+    "Meaning / Synonym": "Unintentionally",
+    "Antonym": "Deliberately; Intentionally",
+    "Sentence": "She inadvertently deleted the important file."
+  },
+  {
+    "Word": "Inchoate",
+    "Meaning / Synonym": "Recently begun; Rudimentary; Elementary",
+    "Antonym": "Developed; Mature",
+    "Sentence": "The project was still inchoate (adj) and lacked clear direction; Its inchoateness (n) made planning difficult.",
+    "Other Forms": "Inchoateness (n)"
+  },
+  {
+    "Word": "Inconsequential",
+    "Meaning / Synonym": "Insignificant; Unimportant",
+    "Antonym": "Significant; Important",
+    "Sentence": "The typo was inconsequential to the final report."
+  },
+  {
+    "Word": "Incorporate",
+    "Meaning / Synonym": "Integrate; Include; Merge",
+    "Antonym": "Separate; Divide",
+    "Sentence": "We need to incorporate feedback into our final draft; The incorporation (n) of feedback improved the project.",
+    "Other Forms": "Incorporation (n)"
+  },
+  {
+    "Word": "Indeterminate",
+    "Meaning / Synonym": "Uncertain; Indefinite; Ambiguous",
+    "Antonym": "Definite; Clear",
+    "Sentence": "The results were indeterminate (adj) and unclear; The indeterminacy (n) of the measurements complicated analysis.",
+    "Other Forms": "Indeterminancy (n)"
+  },
+  {
+    "Word": "Indigence",
+    "Meaning / Synonym": "Poverty; Penury",
+    "Antonym": "Wealth; Affluence",
+    "Sentence": "Many people live in indigence (n) without basic necessities; The city organized aid for the indigent (adj) population.",
+    "Other Forms": "Indigent (adj)"
+  },
+  {
+    "Word": "Insensible",
+    "Meaning / Synonym": "Unconscious; Unresponsive",
+    "Antonym": "Sensitive; Responsive",
+    "Sentence": "He lay insensible after the fall; He fell into a state of insensibility (n) after hearing the shocking news.",
+    "Other Forms": "Insensibility (n)"
+  },
+  {
+    "Word": "Intransigence",
+    "Meaning / Synonym": "Refusal of any Compromise; Stubbornness; Obstinacy",
+    "Antonym": "Flexibility; Compliance",
+    "Sentence": "His intransigence (n) frustrated negotiations; The negotiator remained intransigent (adj) throughout.",
+    "Other Forms": "Intransigent (adj)"
+  },
+  {
+    "Word": "Inured",
+    "Meaning / Synonym": "Accustomed; Hardened",
+    "Antonym": "Sensitive; Unaccustomed",
+    "Sentence": "Soldiers quickly become inured to harsh conditions; Years of working in harsh conditions led to the inurement (n) of the soldiers to physical discomfort.",
+    "Other Forms": "Inurement (n)"
+  },
+  {
+    "Word": "Lassitude",
+    "Meaning / Synonym": "Weariness; Lethargy",
+    "Antonym": "Energy; Vitality",
+    "Sentence": "After the hike, she felt a deep lassitude."
+  },
+  {
+    "Word": "Levee",
+    "Meaning / Synonym": "Embankment to prevent flooding",
+    "Antonym": "--",
+    "Sentence": "The city built a levee to protect against future floods."
+  },
+  {
+    "Word": "Log",
+    "Meaning / Synonym": "Record of events",
+    "Antonym": "--",
+    "Sentence": "The captain wrote about the storm in the ship’s log."
+  },
+  {
+    "Word": "Meticulous",
+    "Meaning / Synonym": "Very careful and precise",
+    "Antonym": "Careless; Sloppy; Negligent",
+    "Sentence": "She was meticulous (adj) in checking every detail; His meticulousness (n) ensured accuracy in the final report.",
+    "Other Forms": "Meticulousness (n)"
+  },
+  {
+    "Word": "Negate",
+    "Meaning / Synonym": "Nullify; Deny",
+    "Antonym": "Affirm; Confirm",
+    "Sentence": "His actions negate (v) the contract; The negation (n) of the contract made it legally void.",
+    "Other Forms": "Negation (n)"
+  },
+  {
+    "Word": "Quibble",
+    "Meaning / Synonym": "Minor objection or complaint; Nitpick",
+    "Antonym": "Praise; Compliment",
+    "Sentence": "Don’t quibble over small details."
+  },
+  {
+    "Word": "Quiescent",
+    "Meaning / Synonym": "Dormant; Inert; Latent",
+    "Antonym": "Active; Awake",
+    "Sentence": "The volcano has been quiescent for decades; Its quiescence (n) was reassuring to nearby towns.",
+    "Other Forms": "Quiescence (n)"
+  },
+  {
+    "Word": "Rarefied",
+    "Meaning / Synonym": "Having low density (literal); Elevated or esoteric (figurative)",
+    "Antonym": "Dense; Thick",
+    "Sentence": "The hikers struggled to breathe in the rarefied (literal) air of the mountain summit. The conference attracted a rarefied (figurative) group of intellectuals. Scientists rarefied (v) gases in the lab; The rarefaction (n) of air at high altitudes affects breathing;",
+    "Other Forms": "Rarefaction (n); Rarify (v)"
+  },
+  {
+    "Word": "Refractory",
+    "Meaning / Synonym": "Stubborn; Unmanageable",
+    "Antonym": "Compliant; Docile",
+    "Sentence": "The refractory horse refused to obey commands."
+  },
+  {
+    "Word": "Relegate",
+    "Meaning / Synonym": "Delegate; Demote",
+    "Antonym": "Promote; Elevate",
+    "Sentence": "The team was relegated (v) to the second division; Their relegation (n) was a major disappointment.",
+    "Other Forms": "Relegation (n)"
+  },
+  {
+    "Word": "Reprobate",
+    "Meaning / Synonym": "Scoundrel / Miscreant (n); Immoral (adj)",
+    "Antonym": "Virtuous person (n); Virtuous (adj)",
+    "Sentence": "The council condemned the criminal as a reprobate (n); His reprobate (adj) behavior shocked everyone at the gathering; His reprobation (n) was recorded in the public record.",
+    "Other Forms": "Reprobation (n)"
+  },
+  {
+    "Word": "Rescind",
+    "Meaning / Synonym": "Revoke; Cancel",
+    "Antonym": "Enforce; Ratify",
+    "Sentence": "The company rescinded (v) the offer; The rescission (n) of the contract was unexpected.",
+    "Other Forms": "Rescission (n)"
+  },
+  {
+    "Word": "Resolve",
+    "Meaning / Synonym": "Determination (n); Find a solution (v)",
+    "Antonym": "Vacillation (n); Settle (v)",
+    "Sentence": "He showed great resolve (n) in finishing the marathon; He tried to resolve (v) the issue calmly."
+  },
+  {
+    "Word": "Reverent",
+    "Meaning / Synonym": "Respectful; Worshipful",
+    "Antonym": "Disrespectful; Irreverent",
+    "Sentence": "The congregation was reverent (adj) during the ceremony; Their reverence (n) for the leader was evident; The citizens revered (v) the national hero for his selfless service..",
+    "Other Forms": "Reverence (n); Revere (v)"
+  },
+  {
+    "Word": "Sage",
+    "Meaning / Synonym": "Wise person based on experience and judgment (n); Showing wisdom (adj)",
+    "Antonym": "Ignoramus (n); Foolish (adj)",
+    "Sentence": "The village elder was considered a sage by everyone; Her sage (adj) advice helped me make the right decision; Her sagacious (adj) decisions as a manager earned her the team’s respect.",
+    "Other Forms": "Sagacious (adj)"
+  },
+  {
+    "Word": "Salubrious",
+    "Meaning / Synonym": "Healthful; Salutory; Remedical; Curative",
+    "Antonym": "Harmful; Unhealthy",
+    "Sentence": "They moved to a more salubrious climate for health reasons."
+  },
+  {
+    "Word": "Sanction",
+    "Meaning / Synonym": "Approve (v); Approval (n)",
+    "Antonym": "Reject; Deny",
+    "Sentence": "The committee sanctioned (v) the new policy; The government imposed a sanction (n) on the company."
+  },
+  {
+    "Word": "Satiate",
+    "Meaning / Synonym": "Satisfy fully; Indulge",
+    "Antonym": "Starve; Deprive",
+    "Sentence": "He tried to satiate (v) his hunger after the long journey; The satiation (n) of curiosity brought her peace.",
+    "Other Forms": "Satiation (n)"
+  },
+  {
+    "Word": "Saturate",
+    "Meaning / Synonym": "Soak thoroughly",
+    "Antonym": "Dry; Drain",
+    "Sentence": "Heavy rain can saturate (v) the soil; The saturation (n) of colors in the painting was striking.",
+    "Other Forms": "Saturation (n)"
+  },
+  {
+    "Word": "Savor",
+    "Meaning / Synonym": "Enjoy something fully by its taste, smell or experience (v); The enjoyment of something (n)",
+    "Antonym": "Dislike; Avoid",
+    "Sentence": "She savored (v) every bite of the delicious dessert; The wine had a rich, fruity savor (n) that lingered on the palate."
+  },
+  {
+    "Word": "Secrete",
+    "Meaning / Synonym": "Release (biological sense); Hide or conceal something",
+    "Antonym": "Absorb; Reveal",
+    "Sentence": "The gland can secrete (release) hormones directly into the bloodstream; He secreted (hide) the confidential documents in a safe place; The secretion (n) of hormones regulates body functions.",
+    "Other Forms": "Secretion (n)"
+  },
+  {
+    "Word": "Shard",
+    "Meaning / Synonym": "Fragment",
+    "Antonym": "Whole",
+    "Sentence": "The archaeologist found a shard of ancient pottery."
+  },
+  {
+    "Word": "Spectrum",
+    "Meaning / Synonym": "Colored band produced when light passes through prism",
+    "Antonym": "—",
+    "Sentence": "The rainbow displays a beautiful color spectrum."
+  },
+  {
+    "Word": "Stint",
+    "Meaning / Synonym": "A fixed or limited period of work, duty, or activity (n); Restrict (v)",
+    "Antonym": "Waste",
+    "Sentence": "He did a two-year stint (n) in the army before starting his career; She did not stint (v) on the food for the party."
+  },
+  {
+    "Word": "Stolid",
+    "Meaning / Synonym": "Impassive; Phlegmatic",
+    "Antonym": "Emotional; Expressive",
+    "Sentence": "He remained stolid (adj) despite the chaos; His stolidity (n) impressed everyone with his calmness.",
+    "Other Forms": "Stolidity (n)"
+  },
+  {
+    "Word": "Striated",
+    "Meaning / Synonym": "Marked with parallel bands; Grooved",
+    "Antonym": "Smooth; Plain",
+    "Sentence": "The rock was striated (adj) with fine lines; Geologists studied its striation (n) carefully.",
+    "Other Forms": "Striation (n)"
+  },
+  {
+    "Word": "Strut",
+    "Meaning / Synonym": "Pompous walk (v); Supporting bar (n)",
+    "Antonym": "Shuffle (walk)",
+    "Sentence": "He strutted around (n) like he owned the place; The strut (v) held the frame."
+  },
+  {
+    "Word": "Subpoena",
+    "Meaning / Synonym": "Writ summoning a witness to appear",
+    "Antonym": "—",
+    "Sentence": "The court issued a subpoena for the witness."
+  },
+  {
+    "Word": "Supersede",
+    "Meaning / Synonym": "To replace or take the place of something because it is more modern, effective, or correct",
+    "Antonym": "Retain; Keep",
+    "Sentence": "The new regulations supersede (v) the old ones; Supersession (n) of outdated rules is necessary for clarity.",
+    "Other Forms": "Supersession (n)"
+  },
+  {
+    "Word": "Supposition",
+    "Meaning / Synonym": "Hypothesis",
+    "Antonym": "Fact; Proof",
+    "Sentence": "His argument was based on a faulty supposition."
+  },
+  {
+    "Word": "Tortuous",
+    "Meaning / Synonym": "Winding; Full of curves",
+    "Antonym": "Straight; Direct",
+    "Sentence": "The path through the mountains was tortuous (adj); Geologists studied the tortuosity (n) of the river bends.",
+    "Other Forms": "Tortuosity (n)"
+  },
+  {
+    "Word": "Truculence",
+    "Meaning / Synonym": "Aggressiveness; Ferocity",
+    "Antonym": "Mildness; Gentleness",
+    "Sentence": "His truculence (n) was well known in the ring; The boxer’s truculent (adj) behavior intimidated his opponents",
+    "Other Forms": "Truculent (adj)"
+  },
+  {
+    "Word": "Viscous",
+    "Meaning / Synonym": "Sticky, Gluey",
+    "Antonym": "Watery; Thin",
+    "Sentence": "The syrup was viscous (adj) and flowed slowly; Its viscosity (n) made it ideal for baking.",
+    "Other Forms": "Viscosity (n)"
+  },
+  {
+    "Word": "Vituperative",
+    "Meaning / Synonym": "Abusive; Scolding",
+    "Antonym": "Complimentary; Praising; Laudatory",
+    "Sentence": "He launched a vituperative (adj) attack on his opponent; The vituperation (n) in the debate shocked the audience.",
+    "Other Forms": "Vituperation (n)"
+  },
+  {
+    "Word": "Warranted",
+    "Meaning / Synonym": "Justified; Authorized",
+    "Antonym": "Unjustified; Unwarranted",
+    "Sentence": "His concern was warranted (adj); The officer warranted (v) the search after finding evidence."
+  },
+  {
+    "Word": "Wary",
+    "Meaning / Synonym": "Very cautious",
+    "Antonym": "Careless; Reckless",
+    "Sentence": "She was wary of strangers offering help."
+  },
+  {
+    "Word": "Welter",
+    "Meaning / Synonym": "Clutter (n); Toss / Tumble (v)",
+    "Antonym": "Order; Calm",
+    "Sentence": "The desk was covered in a welter (n) of papers and books; The ship weltered (v) on the rough seas throughout the night."
+  },
+  {
+    "Word": "Whimsical",
+    "Meaning / Synonym": "Capricious; Fanciful",
+    "Antonym": "Serious; Practical",
+    "Sentence": "The whimsical decorations delighted the children."
+  },
+  {
+    "Word": "Neophyte",
+    "Meaning / Synonym": "Beginner; Novice; Apprentice",
+    "Antonym": "Expert; Veteran",
+    "Sentence": "As a neophyte, she made many mistakes."
+  },
+  {
+    "Word": "Obviate",
+    "Meaning / Synonym": "Prevent; Preclude; Eliminate",
+    "Antonym": "Cause; Allow",
+    "Sentence": "Good planning can obviate (v) many potential problems; The obviation (n) of errors required strict attention to detail.",
+    "Other Forms": "Obviation (n)"
+  },
+  {
+    "Word": "Occlude",
+    "Meaning / Synonym": "Clog; Block; Close",
+    "Antonym": "Open; Unblock",
+    "Sentence": "The blockage occluded (v) the artery; The occlusion (n) of the artery caused serious health issues.",
+    "Other Forms": "Occlusion (n)"
+  },
+  {
+    "Word": "Opprobrium",
+    "Meaning / Synonym": "Infamy; Vilification ; Ignominy",
+    "Antonym": "Laudatory",
+    "Sentence": "The politician faced public opprobrium (n) for his scandalous actions; The newspaper ran an opprobrious (adj) headline attacking him.",
+    "Other Forms": "Opprobrious (adj)"
+  },
+  {
+    "Word": "Paragon",
+    "Meaning / Synonym": "Model of perfection",
+    "Antonym": "Flaw; Imperfection",
+    "Sentence": "She is a paragon of kindness and generosity."
+  },
+  {
+    "Word": "Partisan",
+    "Meaning / Synonym": "One-Sided; Prejudiced; Disinterested",
+    "Antonym": "Neutral; Impartial",
+    "Sentence": "The partisan (adj) group refused to consider the other side’s argument; He is a staunch partisan (n) of the candidate."
+  },
+  {
+    "Word": "Pathological",
+    "Meaning / Synonym": "Relating to or caused by disease; Exhibiting compulsive or extreme behavior.",
+    "Antonym": "Healthy; Normal",
+    "Sentence": "The detective noticed the suspect’s pathological (adj) lying; The pathology (n) report revealed the cause of death.",
+    "Other Forms": "Pathology (n)"
+  },
+  {
+    "Word": "Penury",
+    "Meaning / Synonym": "Severe poverty; Indigence",
+    "Antonym": "Wealth; Affluence",
+    "Sentence": "The family lived in penury after the factory closed."
+  },
+  {
+    "Word": "Pervasive",
+    "Meaning / Synonym": "Spread throughout; Widely occuring",
+    "Antonym": "Rare; Limited",
+    "Sentence": "The smell of smoke was pervasive (spread) in the building. Corruption was so pervasive (widely occuring) that it affected every level of government; A terrible smell prevaded (v) the apartment.",
+    "Other Forms": "Prevade (v)"
+  },
+  {
+    "Word": "Phlegmatic",
+    "Meaning / Synonym": "Calm; Composed; Impassive",
+    "Antonym": "Emotional; Excitable; Irascible",
+    "Sentence": "She remained phlegmatic even during the crisis."
+  },
+  {
+    "Word": "Piety",
+    "Meaning / Synonym": "Devoutness; Reverence for god",
+    "Antonym": "Impiety; Irreverence",
+    "Sentence": "His piety was evident in his daily prayers."
+  },
+  {
+    "Word": "Plasticity",
+    "Meaning / Synonym": "Ability to be molded / shaped; Malleability; Ductility",
+    "Antonym": "Rigidity; Inflexibility",
+    "Sentence": "Clay has high plasticity (n); The material is very plastic (adj) when heated.",
+    "Other Forms": "Plastic (adj)"
+  },
+  {
+    "Word": "Plummet",
+    "Meaning / Synonym": "Fall sharply",
+    "Antonym": "Rise; Ascend",
+    "Sentence": "Stock prices plummeted after the announcement."
+  },
+  {
+    "Word": "Porous",
+    "Meaning / Synonym": "Full of pores; Like a sieve",
+    "Antonym": "Impermeable; Solid",
+    "Sentence": "The sponge is porous (adj) and absorbs water easily; Its porosity (n) allows liquids to pass through.",
+    "Other Forms": "Porosity (n)"
+  },
+  {
+    "Word": "Preamble",
+    "Meaning / Synonym": "Introductory statement",
+    "Antonym": "Conclusion; Ending",
+    "Sentence": "The preamble of the constitution sets out its goals."
+  },
+  {
+    "Word": "Precarious",
+    "Meaning / Synonym": "Unstable; Insecure; Risky",
+    "Antonym": "Secure; Safe",
+    "Sentence": "They lived in a precarious situation during the war."
+  },
+  {
+    "Word": "Presumptuous",
+    "Meaning / Synonym": "Arrogant; Audacious",
+    "Antonym": "Modest; Humble",
+    "Sentence": "It was presumptuous of him to assume he would get the job."
+  },
+  {
+    "Word": "Prevaricate",
+    "Meaning / Synonym": "Lie; Equivocate",
+    "Antonym": "Tell truth; Reveal",
+    "Sentence": "Politicians sometimes prevaricate to avoid answering; His prevarication (n) frustrated the journalists.",
+    "Other Forms": "Prevarication (n)"
+  },
+  {
+    "Word": "Probity",
+    "Meaning / Synonym": "Incorruptibility; Integrity; Uprightness",
+    "Antonym": "Dishonesty; Corruption",
+    "Sentence": "His probity made him a trusted judge."
+  },
+  {
+    "Word": "Problematic",
+    "Meaning / Synonym": "Doubtful; Unsettled; Questionable; Perplexing",
+    "Antonym": "Clear; Certain",
+    "Sentence": "The situation became problematic very quickly."
+  },
+  {
+    "Word": "Prohibitive",
+    "Meaning / Synonym": "Tending to prevent purchase or use; Forbidding",
+    "Antonym": "Affordable; Permissive",
+    "Sentence": "The costs were prohibitive (adj) for most families; The government enforced a strict prohibition (n) on certain chemicals.",
+    "Other Forms": "Prohibition (n)"
+  },
+  {
+    "Word": "Pungent",
+    "Meaning / Synonym": "Sharp in taste or smell; Bitter",
+    "Antonym": "Mild; Bland",
+    "Sentence": "The cheese had a pungent (strong smell / taste) smell; Her pungent (bitter) remarks about the policy left everyone in stunned silence."
+  },
+  {
+    "Word": "Qualified",
+    "Meaning / Synonym": "Limited; Restricted",
+    "Antonym": "Absolute; Unqualified",
+    "Sentence": "He gave a qualified (adj) endorsement of the plan; She qualified (v) for the finals; His qualification (n) for the job was evident."
+  }]
